@@ -5,7 +5,7 @@ console.log(`https://someth.com/${category}/5`);
 
 let person = prompt("Ваше имя?", '');
 
-document.write(`Я тебя люблю ${person}!`);
+document.write(`Доброго Денька ${person}!`);
 
 
 console.log(9*2 == '18');
